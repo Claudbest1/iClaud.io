@@ -39,7 +39,7 @@ const About = () => {
 
           </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex placeat ut magni alias deleniti quos porro quisquam quo cumque nam in quod obcaecati optio similique ipsam expedita, accusantium sint quis!
+              I am your go to person when it comes to Web development, graphic design and UI/UX design. My inclination to quality and attention to details singles me out from the endless list of creatives around the world.
             </p>
             
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
