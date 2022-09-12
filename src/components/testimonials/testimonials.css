@@ -40,11 +40,13 @@ padding-bottom: 4rem;
 }
 
 /* ====================MEDIA QUERIES (SMALL DEVICES) ================= */
-@media screen and (max-width:375px) {
+@media screen and (max-width:600px) {
     .container.testimonials__container{
         width: var(--container-width-sm);
+       
     }
     .client__review{
         width: var(--container-width-sm);
+        
     }
 }
